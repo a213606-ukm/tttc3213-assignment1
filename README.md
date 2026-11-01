@@ -4,10 +4,10 @@ TTTC3213 Data Engineering · Assignment 1 · Universiti Kebangsaan Malaysia
 
 | Name | Matric No. |
 |---|---|
-| Vin | A212782 |
-| *(member 2)* | *(matric)* |
-| *(member 3)* | *(matric)* |
-| *(member 4)* | *(matric)* |
+| RAVINRAJ A/L VASU | A212782 |
+| CHARAN BAHADUR NEWAR A/L KARNA BAHADUR NEWAR | A211997 |
+| ADAM BUKHARY BIN MOHAMMAD SHAHRUL NIZAM | A213606 |
+| MUHAMMAD SYAMIL BIN MOHD ZAIDI | A213608 |
 
 ## Scenario
 An investment firm wants to track how stocks in different Bursa Malaysia sectors behave before and after Bank Negara Malaysia's OPR announcements, so it can identify rate-sensitive sectors and adjust client portfolios faster. This notebook profiles and cleans the data for that scenario: missing values, outliers, duplicates, wrong types, inconsistent sector labels, and PII/bias risks.
